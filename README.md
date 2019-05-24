@@ -13,10 +13,11 @@ The SBA System Creator allows to pass the following parameters to the plugin com
 - **%prjname%**: Project name  
 - **%filename%**: Filename currently in the editor  
 - **%filepath%**: Full File Path of the currently open file  
+- **%filenameonly%**: Filename only without extension
 - **%appdir%**: Install Path  of the application  
 - **%configfile%**: Config file of the application (be careful)  
   
 Use the [demoplugin] for an overwiew of how to write a plugin for SBA System Creator.
 
-[demoplugin]:https://github.com/mriscoc/SBA-PlugIns/tree/master/demoplugin
+[demoplugin]:https://github.com/mriscoc/SBA-PlugIns/tree/master/Windows/demoplugin
 
