@@ -1,7 +1,7 @@
-SBA-PlugIns
-===========
+SBA Demo PlugIn
+===============
 
-PlugIns repository for SBA System Creator
+Demostrative PlugIn repository for SBA System Creator
 
 Parameters
 ----------
@@ -17,7 +17,5 @@ The SBA System Creator allows to pass the following parameters to the plugin com
 - **%appdir%**: Install Path  of the application  
 - **%configfile%**: Config file of the application (be careful)  
   
-Use the [demoplugin] for an overwiew of how to write a plugin for SBA System Creator.
-
-[demoplugin]:https://github.com/mriscoc/SBA-PlugIns/tree/master/Windows/demoplugin
+Use this demo for an overwiew of how to write a plugin for SBA System Creator.
 
